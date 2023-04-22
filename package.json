@@ -1,0 +1,28 @@
+{
+  "name": "apollo-server-plugin-alias",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Plugin for Apollo Server to create aliased queries and mutations in order to minimize script and request sizes.",
+  "author": "slvvn",
+  "keywords": [
+    "apollo",
+    "plugin",
+    "alias",
+    "automatic persisted queries"
+  ],
+  "repository": {
+    "url": "https://github.com/slvvn/applo-server-plugin-alias"
+  },
+  "homepage": "https://github.com/slvvn/applo-server-plugin-alias#readme",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@apollo/server": "^4.4.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.7.0"
+  }
+}
