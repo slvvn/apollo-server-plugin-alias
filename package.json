@@ -11,9 +11,9 @@
     "automatic persisted queries"
   ],
   "repository": {
-    "url": "https://github.com/slvvn/applo-server-plugin-alias"
+    "url": "https://github.com/slvvn/apollo-server-plugin-alias"
   },
-  "homepage": "https://github.com/slvvn/applo-server-plugin-alias#readme",
+  "homepage": "https://github.com/slvvn/apollo-server-plugin-alias#readme",
   "main": "src/index.js",
   "types": "src/types.d.ts",
   "scripts": {
