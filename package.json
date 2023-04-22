@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/slvvn/applo-server-plugin-alias#readme",
   "main": "src/index.js",
+  "types": "src/types.d.js",
   "scripts": {
     "build": "tsc"
   },
