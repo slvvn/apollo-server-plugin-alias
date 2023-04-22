@@ -1,6 +1,6 @@
 {
   "name": "apollo-server-plugin-alias",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Plugin for Apollo Server to create aliased queries and mutations in order to minimize script and request sizes.",
   "author": "slvvn",
